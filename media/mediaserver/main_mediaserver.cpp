@@ -28,7 +28,6 @@
 #include "IcuUtils.h"
 #include "MediaPlayerService.h"
 #include "ResourceManagerService.h"
-#include "CameraService.h"
 
 using namespace android;
 
